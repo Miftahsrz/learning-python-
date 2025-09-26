@@ -1,1 +1,6 @@
-belajar python hari ke 1, Fungsi aritmatika, variabel, tipe data, 
+<div>
+  KASIR MENU 📋
+  MENGHITUNG LUAS LINGKARAN 🤖
+  FUNGSI ARITMATIKA 
+  #pythonbeginner
+</div>
